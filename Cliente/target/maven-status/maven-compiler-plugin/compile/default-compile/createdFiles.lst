@@ -1,0 +1,7 @@
+com\senai\login\services\ClienteService.class
+com\senai\login\dtos\RespostaDto.class
+com\senai\login\LoginApplication.class
+com\senai\login\dtos\ClienteDto.class
+com\senai\login\controllers\ClienteController.class
+com\senai\login\repositories\ClienteRepository.class
+com\senai\login\models\ClienteModel.class
